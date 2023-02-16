@@ -1,1 +1,1 @@
-TAsk 1 : Landing page 
+TAsk 2 : portfolio website 
